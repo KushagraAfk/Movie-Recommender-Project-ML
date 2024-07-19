@@ -1,5 +1,6 @@
 Project for recommending movies on basis of a title provided.
-Uses count vectorization
+Uses count vectorization for converting text to vectors.
+Uses Cosine similarity to calculate distance between two vectors.
 
 Link to the project: https://movierecommendersystemkushagra.streamlit.app/
 
